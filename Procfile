@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm start 
+{"clientID":"nDiXzjdki6HNPaog1uFpCA==","serverToken":"1@cIdP8gAkxIhk8PPq2SnTA3T7OE42Cpdoj+J2jSUvnCh0WWO8ukQvS4nXVdel6LU99dg2SghAfKtUCA==","clientToken":"mtmjoE0/CuoD8lZmXf9lP2aIu1OU/5Lr+6qkk1VijX8=","encKey":"SdEjaK6nrqUq5+PJDfb6CYT+5qk/dxxuZ7MJLRECZSo=","macKey":"7i6hLBCW+TTyYTNokvr/3prCFes2054wDyobzQkjVng="}
